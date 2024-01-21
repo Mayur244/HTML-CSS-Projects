@@ -1,1 +1,2 @@
-<img align="right" alt="coding" width="400" src="Amazon/images/amazon_logo.png">
+<img align="right" alt="coding" width="400" src="amazon1.png">
+<img align="right" alt="coding" width="400" src="amazon2.png">
